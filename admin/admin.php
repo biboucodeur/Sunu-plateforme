@@ -137,7 +137,7 @@ $bdd = null;
                     </div>
                     <div class="card-body">
                         <img src="../img/notes.png" alt="image" class="card-img-top">
-                        <a href="modifier_informations_etudiant.php" class="text-primary">Modifier les informations d'un étudiant</a>
+                        <a href="modifier_informations_etudiant.php" class="text-primary">Modifier infos étudiant</a>
                     </div>
                 </div>
             </div>
