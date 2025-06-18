@@ -35,7 +35,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         if ($resultat) {
             $succes = "Inscription réussie. Vous pouvez maintenant vous connecter.";
         } else {
-            $erreur = "Une erreur est survenue lors de l'inscription. Veuillez réessayer.";
+            $erreur = "Une erreur est survenue lors de l'inscription. Veuillez réessayer !";
         }
     }
 }
